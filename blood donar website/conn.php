@@ -1,8 +1,8 @@
 <?php
-$servername = "sql310.epizy.com";
-$username = "epiz_32933672";
-$password = "gDvfTERmhyZYf";
-$database = "epiz_32933672_blood_donar_website";
+$servername = "localhost";
+$username = "root";
+$password = "";
+$database = "blood_donar_website";
 // Create connection
 $conn = new mysqli($servername, $username, $password, $database);
 
